@@ -71,7 +71,7 @@ This creates a **touchless control system** where gestures replace physical swit
 
 ## 👩‍💻 Author
 
-**Nusra**
+**Nusrath Beegum**
 AI & Robotics Enthusiast
 
 ---
